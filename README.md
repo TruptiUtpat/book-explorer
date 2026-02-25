@@ -25,7 +25,6 @@ This project was developed as part of a technical assignment.
 - React
 - TypeScript
 - React Router
-- Vite
 - LocalStorage
 - Mock local data
 
